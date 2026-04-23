@@ -1,4 +1,5 @@
 # lab1
+## [Задание](https://github.com/ITMOPython-2022/Lab-1)
 ## Запуск main.py
 ## Файл sequence.txt должен находиться в обной папке с main.py!
 - Флаг Швейцарии
